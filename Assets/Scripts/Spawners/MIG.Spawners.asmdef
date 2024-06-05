@@ -1,0 +1,18 @@
+{
+    "name": "MIG.Spawners",
+    "rootNamespace": "MIG.Spawners",
+    "references": [
+        "GUID:b3655e00139b8344ba697db3917c1c12",
+        "GUID:089b756ee6ea277439a46e940463ae38",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

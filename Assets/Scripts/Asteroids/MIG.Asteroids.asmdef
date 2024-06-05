@@ -1,0 +1,18 @@
+{
+    "name": "MIG.Asteroids",
+    "rootNamespace": "MIG.Asteroids",
+    "references": [
+        "GUID:b3655e00139b8344ba697db3917c1c12",
+        "GUID:c454cb1d2f739564fb17659521158888",
+        "GUID:d8b63aba1907145bea998dd612889d6b"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7090963274329689758
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2577898520643424263}
+  - component: {fileID: 5957353007134500870}
+  m_Layer: 0
+  m_Name: AppScope
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2577898520643424263
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090963274329689758}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5957353007134500870
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7090963274329689758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7f80313f30be1d4e891279555014270, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _menuAppStateSettings: {fileID: 11400000, guid: 2cdf5f55c9846fc4e85d542950e7235a, type: 2}
+  _playGameAppStateSettings: {fileID: 11400000, guid: d6750d88913498a4fac331cb42570707, type: 2}
+  _windowHandlerSettings: {fileID: 11400000, guid: 1d11f3afa1835ce46a1c83c97488fdf4, type: 2}
+  _globalEventSystemSettings: {fileID: 11400000, guid: f79636e1b8ecbe445825a8110cd341c4, type: 2}
+  _sceneLoaderServiceSettings: {fileID: 11400000, guid: eb9e76f37a7dc2749992bc752f1502a3, type: 2}
+  _leaderboardServiceSettings: {fileID: 11400000, guid: bafd80542ee82074f9f8bad6f97485f5, type: 2}
+  _leaderboardHandlerSettings: {fileID: 11400000, guid: 40d27c997eb592c4a94ced07bf096a65, type: 2}
+  _loadingScreenFactorySettings: {fileID: 11400000, guid: b64c7a5856487e44f82bcff8cf1347d3, type: 2}
+  _mainMenuWindowSettings: {fileID: 11400000, guid: c13db68cdff44304694de5352356da43, type: 2}
+  _playerHUDFactorySettings: {fileID: 11400000, guid: 659f2a1a587370b43aaba5f1e16353a2, type: 2}
+  _gameOverWindowFactorySettings: {fileID: 11400000, guid: 8326faed716afd1428ea1e03fc48da6a, type: 2}

@@ -1,0 +1,18 @@
+{
+    "name": "MIG.Player.Input",
+    "rootNamespace": "MIG.Player.Input",
+    "references": [
+        "GUID:b3655e00139b8344ba697db3917c1c12",
+        "GUID:bf9e400cbae63204b8374be543de9f75",
+        "GUID:75469ad4d38634e559750d17036d5f7c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

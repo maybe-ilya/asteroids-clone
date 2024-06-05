@@ -1,0 +1,17 @@
+{
+    "name": "MIG.UFO",
+    "rootNamespace": "MIG.UFO",
+    "references": [
+        "GUID:b3655e00139b8344ba697db3917c1c12",
+        "GUID:c454cb1d2f739564fb17659521158888"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

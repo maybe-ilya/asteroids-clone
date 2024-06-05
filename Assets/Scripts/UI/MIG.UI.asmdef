@@ -1,0 +1,16 @@
+{
+    "name": "MIG.UI",
+    "rootNamespace": "MIG.UI",
+    "references": [
+        "GUID:b3655e00139b8344ba697db3917c1c12"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

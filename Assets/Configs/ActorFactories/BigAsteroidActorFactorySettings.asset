@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1d5dd9b156c641f49bc88574f97a7bf1, type: 3}
+  m_Name: BigAsteroidActorFactorySettings
+  m_EditorClassIdentifier: 
+  _asteroidPrefab: {fileID: 8853424478022977495, guid: 9b0e473b758994142942501c897137f9, type: 3}
+  _asteroidSprites:
+  - {fileID: 21300000, guid: 93c7cbaf923bba946b5d48a60219bc7e, type: 3}
+  - {fileID: 21300000, guid: a088154180357af4c88f250ffa53b5e5, type: 3}
+  - {fileID: 21300000, guid: cd4e76dda337adc44b68512b2bcc53bf, type: 3}
+  - {fileID: 21300000, guid: 36029f1e61339ee40a323f4fedc2163e, type: 3}
+  _minSpeedModifier: 0.7
+  _maxSpeedModifier: 1.1
+  _initialPoolSize: 10
